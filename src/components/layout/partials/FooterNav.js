@@ -28,11 +28,12 @@ const FooterNav = ({
           <Link to="#0">FAQ's</Link>
         </li>
         <li>
-          <Link to="#0">Support</Link>
+          <a href = "mailto:support@retailit.nyc">Support</a>
         </li>
       </ul>
     </nav>
   );
 }
 
+//<Link to="#0">Support</Link>
 export default FooterNav;
