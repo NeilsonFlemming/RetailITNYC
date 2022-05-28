@@ -72,7 +72,7 @@ const Hero = ({
                   <Button tag="a" color="primary" wideMobile href="">
                     Support
                     </Button>
-                  <Button tag="a" className="smoothscroll" color="dark" wideMobile href="#Footer">
+                  <Button tag="a" className="smoothscroll" color="dark" wideMobile href="#Testimonial">
                     Footer
                     </Button>
                 </ButtonGroup>
