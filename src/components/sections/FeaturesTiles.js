@@ -55,7 +55,7 @@ const FeaturesTiles = ({
     >
       <div className="container">
         <div className={innerClasses}>
-          <SectionHeader data={sectionHeader} className="center-content" />
+          {/* <SectionHeader data={sectionHeader} className="center-content" />  */}
           <div className={tilesClasses}>
 
           <div className="tiles-item reveal-from-bottom">
@@ -74,7 +74,7 @@ const FeaturesTiles = ({
                     Consultation
                     </h4>
                   <p className="m-0 text-sm">
-                  With over 15 years of retail IT experience, we consult our clients across all functions in their ever-expanding ecosystems —consumer insights, value proposition, company strategy, product creation, supply chain, channels, and Brick & Mortar.
+                  With over 25 years of retail IT experience, we consult our clients across all functions in their ever-expanding ecosystems — commerce strategy, supply chain, wholesale, ecommerce, and Brick & Mortar.
                     </p>
                 </div>
               </div>

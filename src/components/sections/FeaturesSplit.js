@@ -50,8 +50,8 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Workflow that just works',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'Experts in Commerce',
+    paragraph: 'Our aim is to ensure that selling via all channels, bricks and mortar stores, online and wholesale are simplified (Unified Commerce). We want customers to focus on what they do best, selling.'
   };
 
   return (
