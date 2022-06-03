@@ -93,10 +93,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Integration
+                    Custom Development
                     </h4>
                   <p className="m-0 text-sm">
-                  Our core proposition is to help organizations maximize value from their change and technology investments. We assist with this by providing custom integration services, which allows us to tailor our client's integrations between systems to their specific business cases.
+                  Our core proposition is to help organizations maximize value from their change and technology investments. We assist with this by providing custom development services, which allows us to tailor our client's integrations between systems to their specific business cases.
                     </p>
                 </div>
               </div>
