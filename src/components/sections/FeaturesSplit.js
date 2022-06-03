@@ -73,7 +73,7 @@ const FeaturesSplit = ({
                   Collobrative Approach
                   </h3>
                 <p className="m-0">
-                We embrace a collaborative approach. We make it a point to get to know and work with our clients so that we can tailor the necessary solutions to their needs and requests. That’s what sets us apart from other retail IT consulting firms in NYC and the rest of the world. Together, we identify and analyze the challenges that need to be dealt with and implement the necessary solutions, and we can help you adapt to the ever-evolving landscape of the retail industry.
+                We make it a point to get to know and work with our clients so that we can tailor the necessary solutions to their needs and requests. Together, we identify and analyze the challenges that need to be dealt with and implement the necessary solutions, and we can help you adapt to the ever-evolving landscape of the retail industry.
                   </p>
               </div>
               <div className={
@@ -99,7 +99,7 @@ const FeaturesSplit = ({
                   Native and Integrated Solutions
                   </h3>
                 <p className="m-0">
-                We've built a global network of strategic partners over the years who enable Retail IT NYC to provide clients with immediate and integrated solutions. We provide a diverse range of strategic, functional, and technical expertise focused exclusively on retail IT consulting & technology
+                We've built a global network of strategic partners over the years who enable Retail IT NYC to provide clients with immediate and integrated solutions. We provide a diverse range of strategic, functional, and technical expertise focused exclusively on retail IT consulting & technology.
                   </p>
               </div>
               <div className={
