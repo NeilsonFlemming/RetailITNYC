@@ -60,7 +60,7 @@ const Hero = ({
     >
       <div className="container-sm">
         <div className={innerClasses}>
-          <div className="hero-content">
+          <div className="hero-content" id="aboutUs">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
               Welcome to <span className="text-color-primary">Retail IT NYC</span>
             </h1>
@@ -68,16 +68,16 @@ const Hero = ({
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
                 Helping retailers develop and implement IT strategies that address today's challenges and tomorrow's opportunities.
                 </p>
-              <div className="reveal-from-bottom" data-reveal-delay="600">
-                <ButtonGroup>
+              {/*<div className="reveal-from-bottom" data-reveal-delay="600">
+              <ButtonGroup>
                   <Button tag="a" color="primary" wideMobile href="">
                     Support Portal
                     </Button>
-                  <Button tag="a" className="smoothscroll" color="dark" wideMobile href="">
+                  <Button tag="a" className="smoothscroll" color="dark" wideMobile href="mailto: Support@Retailit.nyc">
                     Contact
                     </Button>
-                </ButtonGroup>
-              </div>
+                </ButtonGroup> 
+              </div>*/}
             </div>
           </div>
         </div>

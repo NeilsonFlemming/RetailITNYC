@@ -61,7 +61,7 @@ const FeaturesSplit = ({
     >
       <div className="container">
         <div className={innerClasses}>
-          <SectionHeader data={sectionHeader} className="center-content" />
+          <SectionHeader data={sectionHeader} className="center-content"/>
           <div className={splitClasses}>
 
             <div className="split-item">
@@ -125,7 +125,7 @@ const FeaturesSplit = ({
                   On-Time, On Budget
                   </h3>
                 <p className="m-0">
-                  Using the most current, agile management tools, our team ensure there are no surprises. Your project stays within budget and launches on schedule, if not sooner.
+                  Using the most current, agile management tools, our team of project managers ensure there are no surprises. Your project stays within budget and launches on schedule, if not sooner.
                   </p>
               </div>
               <div className={
