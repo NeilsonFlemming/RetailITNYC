@@ -122,10 +122,10 @@ const FeaturesSplit = ({
                   Lightning fast workflow
                   </div> */}
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  On-Time, On Budget
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  Using the most current, agile management tools, our team ensure there are no surprises. Your project stays within budget and launches on schedule, if not sooner.
                   </p>
               </div>
               <div className={
@@ -135,7 +135,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-03.png')}
+                  src={require('./../../assets/images/time_budget.jpg')}
                   alt="Features split 03"
                   width={528}
                   height={396} />
