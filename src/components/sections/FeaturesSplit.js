@@ -51,7 +51,7 @@ const FeaturesSplit = ({
 
   const sectionHeader = {
     title: 'Experts in Commerce',
-    paragraph: 'Our aim is to ensure that selling via all channels, bricks and mortar, online and wholesale are simplified (Unified Commerce). We want customers to focus on what they do best, selling.'
+    paragraph: 'We aim to ensure that selling via all channels, brick & mortar, online, and wholesale, are simplified (Unified Commerce). We want customers to focus on what they do best, selling.'
   };
 
   return (
@@ -73,7 +73,7 @@ const FeaturesSplit = ({
                   Collobrative Approach
                   </h3>
                 <p className="m-0">
-                We make it a point to get to know and work with our clients so that we can tailor the necessary solutions to their needs and requests. Together, we identify and analyze the challenges that need to be dealt with and implement the necessary solutions, and we can help you adapt to the ever-evolving landscape of the retail industry.
+                We make it a point to get to know and work with our clients so that we can tailor the necessary solutions to their needs and requests. Together, we identify and analyze the challenges that must be dealt with and implement the best solutions. As a result, we can help you adapt to the ever-evolving retail landscape.
                   </p>
               </div>
               <div className={
@@ -99,7 +99,7 @@ const FeaturesSplit = ({
                   Native and Integrated Solutions
                   </h3>
                 <p className="m-0">
-                We've built a global network of strategic partners over the years who enable Retail IT NYC to provide clients with immediate and integrated solutions. We provide a diverse range of strategic, functional, and technical expertise focused exclusively on retail IT consulting & technology.
+                We've built a global network of strategic partners over the years who enable Retail IT NYC to provide clients with immediate and integrated solutions. In addition, we offer a diverse range of strategic, functional, and technical expertise focused exclusively on retail IT consulting and technology.
                   </p>
               </div>
               <div className={
@@ -125,7 +125,7 @@ const FeaturesSplit = ({
                   On-Time, On Budget
                   </h3>
                 <p className="m-0">
-                  Using the most current, agile management tools, our team of project managers ensure there are no surprises. Your project stays within budget and launches on schedule, if not sooner.
+                  Using the most current, agile project management tools, our team ensures there are no surprises. As a result, your project stays within budget and launches on schedule, if not sooner.
                   </p>
               </div>
               <div className={

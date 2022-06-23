@@ -4,7 +4,7 @@ import classNames from 'classnames';
 import { SectionProps } from '../../utils/SectionProps';
 //import ButtonGroup from '../elements/ButtonGroup';
 //import Button from '../elements/Button';
-//import Image from '../elements/Image';
+import Image from '../elements/Image';
 //import Modal from '../elements/Modal';
 
 const propTypes = {
@@ -78,6 +78,13 @@ const Hero = ({
                     </Button>
                 </ButtonGroup> 
               </div>*/}
+            </div>
+            <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
+              <Image
+                src={require('./../../assets/images/nyc.jpeg')}
+                alt="Hero"
+                width={896}
+                height={504}/>
             </div>
           </div>
         </div>
