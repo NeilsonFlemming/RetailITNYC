@@ -51,8 +51,7 @@ const FeaturesTiles = ({
   return (
     <section
       {...props}
-      className={outerClasses}
-    >
+      className={outerClasses}>
       <div className="container">
         <div className={innerClasses}>
           {/* <SectionHeader data={sectionHeader} className="center-content" />  */}

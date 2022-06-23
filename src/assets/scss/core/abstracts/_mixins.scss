@@ -132,7 +132,7 @@
 
 @mixin divider-mix($layout: false) {
 	display: block;
-	height: 1px;
+	height: 5px;
 	@if ( $layout == 'inverse' ) {
 		background: color-border(divider-inverse);
 	} @else {
