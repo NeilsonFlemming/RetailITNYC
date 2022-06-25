@@ -99,7 +99,7 @@ const FeaturesSplit = ({
                   Native and Integrated Solutions
                   </h3>
                 <p className="m-0">
-                We've built a global network of strategic partners over the years who enable Retail IT NYC to provide clients with immediate and integrated solutions. In addition, we offer a diverse range of strategic, functional, and technical expertise focused exclusively on retail IT consulting and technology.
+                We've built a global network of strategic partners who enable Retail IT NYC to provide clients with immediate and integrated solutions. In addition, we offer a diverse range of strategic, functional, and technical expertise focused exclusively on retail IT consulting and technology.
                   </p>
               </div>
               <div className={
